@@ -15,7 +15,9 @@
 1 an en développement informatique.
 
 | Ancien Administrateur chez @Heleria_Net,
+
 | Responsable Construction @DenoriaNetwork,
+
 | Administrateur / Game Designer @OrionMC_Net
 
 Créateur de projet visant à créer l'impossible dans 
