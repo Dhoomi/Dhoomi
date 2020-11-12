@@ -1,16 +1,24 @@
-### Hi there 👋
+# Dhoom_ (c'est moi wsh)
 
-<!--
-**Dhoomi/Dhoomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔁 Développeur Java / Web 
+🎨 Game designer, depuis 3 ans 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ M - @0412
+
+---------------------------------
+
+• Communication : Community Manager
+2 ans d'étude dans la relation client,
+
+• Développement : 
+1 an en développement informatique.
+
+| Ancien Administrateur chez @Heleria_Net,
+| Responsable Construction @DenoriaNetwork,
+| Administrateur / Game Designer @OrionMC_Net
+
+Créateur de projet visant à créer l'impossible dans 
+minecraft.
+
+---------------------------------
