@@ -18,7 +18,7 @@
 
 | Responsable Construction @DenoriaNetwork,
 
-| Administrateur / Game Designer @OrionMC_Net
+| Administrateur / Game Designer @AzureMC_Net
 
 Créateur de projet visant à créer l'impossible dans 
 minecraft.
