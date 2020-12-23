@@ -42,12 +42,14 @@ Ancien
 
 <br>
 Actuel
-<br>
-[HORS IG]| Créateur d'une futur chaine de restaurant...<br>
-
 | Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
 | Responsable Développement chez AkyraMC (https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
-| Responsable Développement chez BeRush (Soon)<br>
+| Responsable Développement chez BeRush (Soon)
+<br>
+<br>
+[HORS IG]| Créateur d'une futur chaine de restaurant...
+<br>
+<br>
 <br>
 <br>
 <br>
