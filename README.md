@@ -1,22 +1,23 @@
-Bonjouuuuuuuuuur / Hellooooo 👋
+### Bonjouuuuuuuuuur / Hellooooo 👋
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <br>
  <br>
-
+<p align="center">
 ### - Passions : 
 - ✨ Jeux, 
 - ✨ Sorties,
 - ✨ Dev,
 - ✨ Regarder des animés
+ </p>
 <br>
 <br>
 <br>
 
 ---------------------------------
 <br>
+<p align="center">
 # Langages & Tools 👨‍💻 🛠:
 <br>
-<p align="center">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <br>
@@ -31,7 +32,8 @@ Bonjouuuuuuuuuur / Hellooooo 👋
 </p>
 
 ---------------------------------
-<br>
+<p align="center">
+ <br>
 ### Projet & Ancien Projet 👋
 <br>
 _Ancien_<br>
@@ -50,6 +52,7 @@ _Actuel_<br>
 <br>
 <br>
 <br>
+</p>
 
 # Contact Me :
 
