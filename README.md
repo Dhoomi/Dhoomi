@@ -1,7 +1,5 @@
 ### Bonjouuuuuuuuuur / Hellooooo 👋
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<br>
- <br>
 <p align="center">
  <br>
 ### - Passions : <br>
@@ -41,7 +39,7 @@ Ancien
 | Responsable Construction et Game Designer chez Denoria (https://twitter.com/DenoriaNetwork) | Site (https://denoria.fr)
 <br>
 <br>
-Actuel<br><br>
+Actuel<br>
 | Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
 | Responsable Développement chez AkyraMC (https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
 | Responsable Développement chez BeRush (Soon)<br>
