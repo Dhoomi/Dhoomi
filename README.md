@@ -50,4 +50,5 @@ Bonjouuuuuuuuuur / Hellooooo 👋
 <p align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dhoomi.Dhoomi)
