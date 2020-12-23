@@ -2,7 +2,8 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <p align="center">
  <br>
-### - Passions : <br>
+ </br>
+### Passions :
 - ✨ Jeux, <br>
 - ✨ Sorties,<br>
 - ✨ Dev,<br>
@@ -45,7 +46,7 @@ Actuel<br>
 | Responsable Développement chez BeRush (Soon)<br>
 <br>
 <br>
-[HORS IG] Créateur d'une futur chaine de restaurant...
+[HORS IG] Créateur d'un futur restaurant...
 <br>
 <br>
 <br>
