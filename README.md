@@ -1,9 +1,10 @@
 ### Bonjouuuuuuuuuur / Hellooooo 👋
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ 
 <p align="center">
  <br>
- </br>
-### Passions : <br>
+ 
+Passions : <br>
 - ✨ Jeux, <br>
 - ✨ Sorties,<br>
 - ✨ Dev,<br>
@@ -16,7 +17,7 @@
 ---------------------------------
 <br>
 <p align="center">
-# Langages & Tools 👨‍💻 🛠:
+Langages & Tools 👨‍💻 🛠:
 <br>
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
