@@ -34,17 +34,17 @@
 
 ---------------------------------
 ### Projet & Ancien Projet 👋
-<br>
+<br><br>
 Ancien
 <br>
 | Adminstrateur et Développeur chez Heleria (https://twitter.com/Heleria_Net) | Site (https://heleria.fr)<br>
 | Responsable Construction et Game Designer chez Denoria (https://twitter.com/DenoriaNetwork) | Site (https://denoria.fr)
-
 <br>
-Actuel
-| Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
-| Responsable Développement chez AkyraMC (https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
-| Responsable Développement chez BeRush (Soon)
+<br>
+Actuel<br><br>
+| Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br><br>
+| Responsable Développement chez AkyraMC (https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br><br>
+| Responsable Développement chez BeRush (Soon)<br>
 <br>
 <br>
 [HORS IG]| Créateur d'une futur chaine de restaurant...
