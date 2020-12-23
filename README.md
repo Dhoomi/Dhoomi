@@ -1,16 +1,21 @@
 Bonjouuuuuuuuuur / Hellooooo 👋
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+<br>
+ <br>
 
 ### - Passions : 
 - ✨ Jeux, 
 - ✨ Sorties,
 - ✨ Dev,
 - ✨ Regarder des animés
+<br>
+<br>
+<br>
 
 ---------------------------------
-
+<br>
 # Langages & Tools 👨‍💻 🛠:
+<br>
 <p align="center">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
@@ -20,26 +25,31 @@ Bonjouuuuuuuuuur / Hellooooo 👋
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<br>
+<br>
 </br>
 </p>
 
 ---------------------------------
-
+<br>
 ### Projet & Ancien Projet 👋
-_Ancien_
-| Adminstrateur et Développeur chez [Heleria](https://twitter.com/Heleria_Net) | [Site](https://heleria.fr)
+<br>
+_Ancien_<br>
+| Adminstrateur et Développeur chez [Heleria](https://twitter.com/Heleria_Net) | [Site](https://heleria.fr)<br>
 | Responsable Construction et Game Designer chez [Denoria](https://twitter.com/DenoriaNetwork) | [Site](https://denoria.fr)
 
-_Actuel_
-[HORS IG]| Créateur d'une futur chaine de restaurant...
+_Actuel_<br>
 
-| Administrateur chez [AzureMC](https://twitter.com/AzureMC_Net) | [Discord](https://discord.gg/kKP9vgmvne)
-| Responsable Développement chez [AkyraMC](https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_
-| Responsable Développement chez BeRush (Soon)
+[HORS IG]| Créateur d'une futur chaine de restaurant...<br>
 
+| Administrateur chez [AzureMC](https://twitter.com/AzureMC_Net) | [Discord](https://discord.gg/kKP9vgmvne)<br>
+| Responsable Développement chez [AkyraMC](https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
+| Responsable Développement chez BeRush (Soon)<br>
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 # Contact Me :
 
