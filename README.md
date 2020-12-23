@@ -3,11 +3,12 @@
 <br>
  <br>
 <p align="center">
-### - Passions : 
-- ✨ Jeux, 
-- ✨ Sorties,
-- ✨ Dev,
-- ✨ Regarder des animés
+ <br>
+### - Passions : <br>
+- ✨ Jeux, <br>
+- ✨ Sorties,<br>
+- ✨ Dev,<br>
+- ✨ Regarder des animés<br>
  </p>
 <br>
 <br>
@@ -37,22 +38,22 @@
 ### Projet & Ancien Projet 👋
 <br>
 _Ancien_<br>
-| Adminstrateur et Développeur chez [Heleria](https://twitter.com/Heleria_Net) | [Site](https://heleria.fr)<br>
-| Responsable Construction et Game Designer chez [Denoria](https://twitter.com/DenoriaNetwork) | [Site](https://denoria.fr)
-
+| Adminstrateur et Développeur chez Heleria (https://twitter.com/Heleria_Net) | Site (https://heleria.fr)<br>
+| Responsable Construction et Game Designer chez Denoria (https://twitter.com/DenoriaNetwork) | Site (https://denoria.fr)
+<br>
 _Actuel_<br>
 
 [HORS IG]| Créateur d'une futur chaine de restaurant...<br>
 
-| Administrateur chez [AzureMC](https://twitter.com/AzureMC_Net) | [Discord](https://discord.gg/kKP9vgmvne)<br>
-| Responsable Développement chez [AkyraMC](https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
+| Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
+| Responsable Développement chez AkyraMC (https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
 | Responsable Développement chez BeRush (Soon)<br>
-
-<br>
-<br>
-<br>
-<br>
 </p>
+<br>
+<br>
+<br>
+<br>
+
 
 # Contact Me :
 
