@@ -35,13 +35,14 @@
 ---------------------------------
 ### Projet & Ancien Projet 👋
 <br>
-_Ancien_<br>
+Ancien
+<br>
 | Adminstrateur et Développeur chez Heleria (https://twitter.com/Heleria_Net) | Site (https://heleria.fr)<br>
 | Responsable Construction et Game Designer chez Denoria (https://twitter.com/DenoriaNetwork) | Site (https://denoria.fr)
+
 <br>
-
-_Actuel_<br>
-
+Actuel
+<br>
 [HORS IG]| Créateur d'une futur chaine de restaurant...<br>
 
 | Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
