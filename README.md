@@ -5,21 +5,6 @@
  ---------------------------------
 <br>
 <p align="center">
-Passions : <br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
- <br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-- ✨ Sorties,<br>
-- ✨ Dev,<br>
-- ✨ Regarder des animés<br>
- </p>
-<br>
-<br>
-<br>
-
----------------------------------
-<br>
-<p align="center">
 Langages 👨‍💻 🛠:
 <br>
 </br>
