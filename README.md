@@ -4,19 +4,16 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ---------------------------------
-### - Apprentissage :
-- ✨ Game Design
-- ✨ Java (Spigot - Bungee)
-- ✨ OpenClassRoom
-- ✨ Application web (Java)
-- ✨ Vente (Marketing)
-- ✨ Community Manager
 
 ### - Passions : 
 - ✨ Jeux, 
 - ✨ Sorties,
 - ✨ Dev,
 - ✨ Regarder des animés
+
+---------------------------------
+
+# Langages & Tools 👨‍💻 🛠:
 <p align="center">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
