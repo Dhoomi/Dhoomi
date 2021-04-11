@@ -34,12 +34,10 @@ Ancien
 <br>
 <br>
 Actuel<br>
-| Administrateur chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
-| Responsable Développement chez AkyraMC (https://twitter.com/AkyraMC_Fr) | Actuellement en pause _(voir arrêt du projet)_<br>
-| Responsable Développement chez BeRush (Soon)<br>
+| Administrateur en charge du GameDesign chez AzureMC (https://twitter.com/AzureMC_Net) | Discord (https://discord.gg/kKP9vgmvne)<br>
+| (Prochainement) CEO DI-Informatique <br> 
 <br>
 <br>
-[HORS IG] Créateur d'un futur restaurant...
 <br>
 <br>
 <br>
@@ -52,10 +50,6 @@ Actuel<br>
 
 <a href="mailto:paypaldhoom@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/brice-riant-51ba9a200/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 
 <br>
