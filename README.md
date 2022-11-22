@@ -1,9 +1,9 @@
 ### Bonjour 👋
+Moi c'est Dhoom_ [21 ans] 👀
+Responsable Com chez @AlphasiaNetwork
+>> Des fois je dev des trucs pour le plaisir
 
-— Développeur Java et Web.
+🇫🇷 / 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
-| Ex Administrateur : 
+Ex Administrateur : 
 Heleria, AzureMC, KryperNetwork.
-
- 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dhoomi.Dhoomi)
