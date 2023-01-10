@@ -1,6 +1,6 @@
 ### Bonjour 👋
-Moi c'est Dhoom_ [21 ans] 👀
-Responsable Com chez @AlphasiaNetwork
+Moi c'est Dhoom_ [22 ans] 👀
+
 > Des fois je dev des trucs pour le plaisir
 
 🇫🇷 / 🏴󠁧󠁢󠁥󠁮󠁧󠁿
