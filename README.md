@@ -1,9 +1,12 @@
-### Bonjour 👋
-Moi c'est Dhoom_ [22 ans] 👀
+### Hi there! 👋
 
-> Des fois je dev des trucs pour le plaisir
+> Sometimes I develop things for fun.<br>
 
-🇫🇷 / 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+Ex Administrator of : <br>
+• Heleria - https://heleria.fr<br>
+• KryperNetwork - https://kryper.net<br>
+• AzureMC - offline.<br>
+<br><br>
+-- Java developer (spigot)..<br>
+-- Front-end lover
 
-Ex Administrateur : 
-Heleria, AzureMC, KryperNetwork.
