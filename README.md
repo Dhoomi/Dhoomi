@@ -1,12 +1,10 @@
-### Hi there! 👋
+Hello us ! 😝
 
-> Sometimes I develop things for fun.<br>
+» Créateur @ Aery (AeryStudio).
+Auto-Entrepreneur, Community-Manager, Développeur.
+Amoureux du Java, et des langages webs.
+| @ Heleria, @ KryperNetwork, @ AzureMC, @ SunShineMC.
+| @ BlastRush.
 
-Ex Administrator of : <br>
-• Heleria - https://heleria.fr<br>
-• KryperNetwork - https://kryper.net<br>
-• AzureMC - offline.<br>
-<br><br>
--- Java developer (spigot)..<br>
--- Front-end lover
-
+Work at @ GolemaMC, @ Evolya.
+» https://evolya.net
