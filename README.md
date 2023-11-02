@@ -9,5 +9,3 @@ Hello us ! 😝
 <br>
 | @ BlastRush.<br>
 <br><br>
-Work at @ GolemaMC, @ Evolya.<br>
-» https://evolya.net<br>
