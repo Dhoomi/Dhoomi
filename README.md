@@ -8,9 +8,11 @@ Je suis constamment à la recherche de nouvelles technologies à explorer et de 
 
 ## Compétences
 
-- Langages: JavaScript, Java, ReactJS, HTML/CSS, PHP
-- Développement d'applications web et mobiles
-- Architecture logicielle et conception de bases de données
+- Langages: Java, Swift, React/VueJS, C++, PHP, SQL&NoSQL.
+- Développement d'applications web et mobiles.
+- Conception et implémentation de bases de données.
+- Utilisation de frameworks front-end et back-end.
+- Collaboration en équipe.
 
 ## Contact
 
