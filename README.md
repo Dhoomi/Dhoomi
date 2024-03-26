@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub où je partage mes projets, mes idées et mes co
 🌱 Toujours en apprentissage et à la recherche de nouvelles technologies à explorer.<br>
 <br><br>
 
-Langages de Programmation<br><br>
+**Langages de Programmation**<br><br>
 Je suis à l'aise avec les langages suivants :<br>
 
 - JavaScript<br>
@@ -17,7 +17,7 @@ Je suis à l'aise avec les langages suivants :<br>
 - HTML/CSS<br>
 - PHP<br>
 <br>
-**Contact**<br><br>
+****Contact****<br><br>
 ✉️ Vous pouvez m'envoyer un e-mail à exxistone@gmail.com.<br>
 N'hésitez pas à explorer mes projets et à me contacter pour toute question ou suggestion. <br>
 Merci de votre visite !<br>
