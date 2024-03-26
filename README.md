@@ -1,27 +1,19 @@
-# Bienvenue sur mon profil GitHub ! 👋
-
-Salut, je suis Dhoom_ (cDhoom_), un passionné de technologie et de développement basé en France. Bienvenue sur mon profil GitHub où je partage mes projets, mes idées et mes contributions à la communauté open source.
+# Bonjour, je suis Dhoom_ (cDhoom_) 👋
 
 ## À propos de moi
 
-- 👨‍💻 Développeur passionné depuis des années.
-- 🎓 Étudiant @Epitech (2016).
-- 🌱 Toujours en apprentissage et à la recherche de nouvelles technologies à explorer.
+Je suis un développeur passionné basé en France, spécialisé dans la création d'applications web et mobiles. Titulaire d'un diplôme de l'École Epitech depuis 2016, j'ai acquis une solide expérience dans le développement logiciel.
 
-## Langages de Programmation
+Je suis constamment à la recherche de nouvelles technologies à explorer et de projets stimulants à entreprendre.
 
-Je suis à l'aise avec les langages suivants :
+## Compétences
 
-- JavaScript
-- Java
-- ReactJS
-- HTML/CSS
-- PHP
+- Langages: JavaScript, Java, ReactJS, HTML/CSS, PHP
+- Développement d'applications web et mobiles
+- Architecture logicielle et conception de bases de données
 
 ## Contact
 
-✉️ Vous pouvez m'envoyer un e-mail à [exxistone@gmail.com](mailto:exxistone@gmail.com).
-
-N'hésitez pas à explorer mes projets et à me contacter pour toute question ou suggestion.
+📧 Pour toute proposition de collaboration ou question, n'hésitez pas à me contacter par e-mail à [exxistone@gmail.com](mailto:exxistone@gmail.com).
 
 Merci de votre visite ! 🚀
