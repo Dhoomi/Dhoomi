@@ -16,8 +16,8 @@ Je suis à l'aise avec les langages suivants :<br>
 - ReactJS<br>
 - HTML/CSS<br>
 - PHP<br>
-<br>
-****Contact****<br><br>
+<br><br>
+**Contact**<br><br>
 ✉️ Vous pouvez m'envoyer un e-mail à exxistone@gmail.com.<br>
 N'hésitez pas à explorer mes projets et à me contacter pour toute question ou suggestion. <br>
 Merci de votre visite !<br>
