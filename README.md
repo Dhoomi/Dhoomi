@@ -1,4 +1,4 @@
-Hello us ! 😝
+Hello ! 😝
 <br>
 <br>
 👀 - Auto-Entrepreneur, Développeur. <br>
