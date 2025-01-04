@@ -25,11 +25,6 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 ![Dhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhoomi&show_icons=true&theme=radical)
 
-## 📫 How to reach me
-
-- LinkedIn: [linkedin.com/in/dhoomi](https://www.linkedin.com/in/dhoomi)
-- Twitter: [@dhoomi_dev](https://twitter.com/dhoomi_dev)
-- Email: [dhoomi@example.com](mailto:dhoomi@example.com)
 
 ## 📝 Latest Blog Posts
 
@@ -38,12 +33,6 @@ I'm a passionate software developer with a keen interest in web development, ope
 - [Building a RESTful API with Node.js and Express](https://dev.to/dhoomi/building-a-restful-api-with-nodejs-and-express-5fjk)
 - [Introduction to Docker for Beginners](https://dev.to/dhoomi/introduction-to-docker-for-beginners-1c3l)
 <!-- BLOG-POST-LIST:END -->
-
-## 📚 Projects
-
-- [Project 1](https://github.com/Dhoomi/project-1) - A brief description of Project 1.
-- [Project 2](https://github.com/Dhoomi/project-2) - A brief description of Project 2.
-- [Project 3](https://github.com/Dhoomi/project-3) - A brief description of Project 3.
 
 Feel free to check out my repositories and contribute to any projects that interest you. Let's collaborate and create something amazing together!
 
