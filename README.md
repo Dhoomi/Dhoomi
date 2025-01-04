@@ -15,12 +15,6 @@ I'm a passionate software developer with a keen interest in web development, ope
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 🌱 Currently Learning
-
-- TypeScript
-- GraphQL
-- Docker
-
 ## 📈 GitHub Stats
 
 ![Dhoomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhoomi&show_icons=true&theme=radical)
